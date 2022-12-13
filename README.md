@@ -1,1 +1,3 @@
-# nmit3_th1_th_latex
+# Thực hành Latex
+
+Thực hiện các bài thực hành Latex
